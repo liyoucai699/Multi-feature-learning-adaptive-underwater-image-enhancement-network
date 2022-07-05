@@ -1,0 +1,197 @@
+train_or
+Average SSIM: 0.5334223593414326
+Average PSNR: 12.869330600072708
+Average MSE: 0.07462062947452068
+
+train_type_f1f2
+Average SSIM: 0.494387156440852
+Average PSNR: 12.423856164683054
+Average MSE: 0.062383741041024524
+
+
+train_type_f1f2
+Average SSIM: 0.5119639414031797
+Average PSNR: 14.514678882977554
+Average MSE: 0.038298716448868314
+
+
+train_type_f1f2
+Average SSIM: 0.742991385963452
+Average PSNR: 15.528099567466219
+Average MSE: 0.03206427076521019
+
+
+train_type
+Average SSIM: 0.7441461389631582
+Average PSNR: 19.74967411780353
+Average MSE: 0.017297720385249703
+
+
+test_totalloss
+Average SSIM: 0.7204668175705515
+Average PSNR: 18.72896482663299
+Average MSE: 0.0167869238423494
+
+
+test_totalloss(color-loss)
+Average SSIM: 0.7502386926668052
+Average PSNR: 19.58288014217272
+Average MSE: 0.014844757460523397
+
+
+test_totalloss(color-loss)(rule)t5
+Average SSIM: 0.36153980507715305
+Average PSNR: 10.57876926370457
+Average MSE: 0.09741482159743707
+
+
+test_totalloss(color-loss)(-rule-11conv)t5
+Average SSIM: 0.8215089740065006
+Average PSNR: 22.38778088191597
+Average MSE: 0.009679404245592499
+
+
+test_totalloss(color-loss)(-rule-11conv)t1
+Average SSIM: 0.9068136552778701
+Average PSNR: 26.397547719042013
+Average MSE: 0.003225699640849295
+
+
+test_totalloss(color-loss)(-rule-11conv)t9
+Average SSIM: 0.5618939863761229
+Average PSNR: 14.80172606924732
+Average MSE: 0.04237629247053216
+
+
+test_totalloss(color-loss)(-rule-11conv)t3
+Average SSIM: 0.8520044148795807
+Average PSNR: 23.49913725792048
+Average MSE: 0.0077883054597380885
+
+
+realword
+Average SSIM: 0.905431162181318
+Average PSNR: 22.59440959256083
+Average MSE: 0.007409613078343682
+
+
+realword(ssim_loss1)
+Average SSIM: 0.9050735249518872
+Average PSNR: 22.453653289326898
+Average MSE: 0.00787230492666519
+
+
+test_totalloss(color-loss)(-rule-11conv)t2
+Average SSIM: 0.9435078227866197
+Average PSNR: 29.41668096986813
+Average MSE: 0.0015284532768419013
+
+
+test_totalloss(color-loss)(-rule-11conv)t7
+Average SSIM: 0.6777611883025734
+Average PSNR: 18.592989878185644
+Average MSE: 0.021007668600650505
+
+
+test_totalloss(color-loss)(-rule-11conv)t8
+Average SSIM: 0.9292897650395713
+Average PSNR: 27.89721491035285
+Average MSE: 0.0022163561067039456
+
+
+test_totalloss(color-loss)(-rule-11conv)t10
+Average SSIM: 0.9123800917475391
+Average PSNR: 26.806417093421228
+Average MSE: 0.00275239711656468
+
+
+test_totalloss(color-loss)(-rule-11conv)t4
+Average SSIM: 0.9466708024520686
+Average PSNR: 29.595401929869293
+Average MSE: 0.001414054343913449
+
+
+test_totalloss(color-loss)(-rule-11conv)t6
+Average SSIM: 0.4321045208905273
+Average PSNR: 12.057391572836126
+Average MSE: 0.07171944770341118
+
+
+realword
+Average SSIM: 0.905431162181318
+Average PSNR: 22.59440959256083
+Average MSE: 0.007409613078343682
+
+
+realword
+Average SSIM: 0.9018620253497467
+Average PSNR: 22.572186491792824
+Average MSE: 0.0073049867872032334
+
+
+realword
+Average SSIM: 0.9143968086775671
+Average PSNR: 23.004453756014197
+Average MSE: 0.00650042797671631
+
+
+realword-att
+Average SSIM: 0.9051413831295421
+Average PSNR: 22.06181401263651
+Average MSE: 0.009477017592871562
+
+
+test_totalloss(color-loss)(-rule-11conv)t7
+Average SSIM: 0.6471535501841598
+Average PSNR: 16.945053699491126
+Average MSE: 0.02464893842077193
+
+
+test_totalloss(color-loss)(-rule-11conv)t2
+Average SSIM: 0.9470152853599243
+Average PSNR: 29.565686753950505
+Average MSE: 0.0012952433919417672
+
+
+test_totalloss(color-loss)(-rule-11conv)t8
+Average SSIM: 0.9337278061044051
+Average PSNR: 27.646755691377148
+Average MSE: 0.0021837615670907934
+
+
+test_totalloss(color-loss)(-rule-11conv)t10
+Average SSIM: 0.9108004362606763
+Average PSNR: 26.94503187021991
+Average MSE: 0.002377589643971684
+
+
+test_totalloss(color-loss)(-rule-11conv)t3
+Average SSIM: 0.840021902861912
+Average PSNR: 23.313390743499244
+Average MSE: 0.007010090171437089
+
+
+test_totalloss(color-loss)(-rule-11conv)t2
+Average SSIM: 0.9470152853599243
+Average PSNR: 29.565686753950505
+Average MSE: 0.0012952433919417672
+
+
+test_totalloss(color-loss)(-rule-11conv)t10
+Average SSIM: 0.9108004362606763
+Average PSNR: 26.94503187021991
+Average MSE: 0.002377589643971684
+
+
+test_totalloss(color-loss)(-rule-11conv)t3
+Average SSIM: 0.840021902861912
+Average PSNR: 23.313390743499244
+Average MSE: 0.007010090171437089
+
+
+test_totalloss(color-loss)(-rule-11conv)t8
+Average SSIM: 0.9337278061044051
+Average PSNR: 27.646755691377148
+Average MSE: 0.0021837615670907934
+
+
